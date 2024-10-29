@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header {
+    background: #007A33;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    height: 10%;
+}
+
+main {
+    padding: 20px;
+}
+
+.bio {
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    padding: 20px;
+}
+img {
+    width:300px;
+    height: auto;
+    border-radius: 5px;
+}
+
+button {
+    background: #007A33;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background: #005A23;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #007A33;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
