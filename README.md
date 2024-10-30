@@ -1,4 +1,4 @@
-Here's a refined description you can include on your tribute page for MS Dhoni:
+Here's a refined description on tribute page for MS Dhoni:
 
 ---
 
